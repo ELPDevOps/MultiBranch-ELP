@@ -257,7 +257,7 @@
 <body>
     <div class="container">
         <header>
-            <h1>ELPDevOps - DevOps Training Institute</h1>
+            <h1>Welcome to ELP DevOps - A project oriented Training Institute</h1>
         </header>
 
         <div id="tabs">
