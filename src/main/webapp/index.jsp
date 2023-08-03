@@ -257,7 +257,7 @@
 <body>
     <div class="container">
         <header>
-            <h1>ELPDevOps - DevOps Training Institute contact us at 9059564278</h1>
+            <h1>ELPDevOps - DevOps Training Institute contact us at 99999999</h1>
         </header>
 
         <div id="tabs">
